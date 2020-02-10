@@ -1,0 +1,10 @@
+<Alloy>
+	<TabGroup id="tg" onOpen="onOpen">
+		<Tab title="first">
+			<Require src="/first" id="first"/>
+		</Tab>
+		<Tab title="second">
+			<Require src="/second" id="second"/>
+		</Tab>
+	</TabGroup>
+</Alloy>

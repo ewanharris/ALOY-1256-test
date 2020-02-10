@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="win">
+		<Label text="I am 1"/>
+	</Window>
+</Alloy>
